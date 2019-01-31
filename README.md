@@ -38,6 +38,7 @@
 
    ## Examples
 [**Sophia SmartShop**](/examples/SmartShop/README.md) example.
+
 [**Sophia Crypto Hamster**](/examples/CryptoHamster/README.md) example.
 
 
