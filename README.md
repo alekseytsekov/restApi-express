@@ -36,7 +36,9 @@
 
 ---- host/api/v1/burger?name=chicken&description=hot&priceGt=1&priceLt=5&page=1
 
-   
+   ## Examples
+[**Sophia SmartShop**](/examples/SmartShop/README.md) example.
+[**Sophia Crypto Hamster**](/examples/CryptoHamster/README.md) example.
 
 
 
